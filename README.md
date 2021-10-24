@@ -4,3 +4,10 @@ In this part of the training module, we were required to control the motor speed
 Errors:
 
 I was unable to send the information of the buttons pressed in client to the server. No output was seen.
+
+
+
+
+Video link to Drive:
+
+https://drive.google.com/drive/folders/1_YHoxXPLrZlN21wBc2NjMAKvLcTWLOZn?usp=sharing
